@@ -46,4 +46,4 @@ void test_singquote() {
 void test_doubquote() {
     const str TEST = "Testing \" Double Quote!";
     /tellraw @a testing: {{TEST}}
-}
+} 

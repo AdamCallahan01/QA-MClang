@@ -4,7 +4,7 @@
 
 //../../build/main "testBuildArithmetic.mcl"
 //Testing compile Time arithmetic
-//All should pass except the comment ones
+//All should pass except the comment ones 
 
 TEST(Arithmetic, Addition) {
     ASSERT_EQ(true, fileExists("addition"));
